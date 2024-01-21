@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "electrical:aluminium_block"
+    }
+  ],
+  "result": {
+    "item": "electrical:aluminium_ingot",
+    "count": 9
+  }
+}

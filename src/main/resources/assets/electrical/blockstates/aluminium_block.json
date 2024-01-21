@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "electrical:block/aluminium_block"
+    }
+  }
+}

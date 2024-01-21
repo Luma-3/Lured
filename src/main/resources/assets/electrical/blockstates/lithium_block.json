@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "electrical:block/lithium_block"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "itemGroup.electrical_tab": "LuReD Electrical",
+
+  "item.electrical.raw_aluminium": "Raw Aluminium",
+  "item.electrical.aluminium_ingot": "Aluminium Ingot",
+  "block.electrical.aluminium_block": "Aluminium Block",
+
+  "item.electrical.raw_lithium": "Raw Lithium",
+  "item.electrical.lithium_ingot": "Lithium Ingot",
+  "block.electrical.lithium_block": "Lithium Block",
+
+  "item.electrical.random_dice": "Random Dice",
+  "block.electrical.jump_block": "Jump Block"
+}

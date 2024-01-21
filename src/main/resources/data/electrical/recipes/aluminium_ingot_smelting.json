@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "electrical:raw_aluminium"
+  },
+  "result": "electrical:aluminium_ingot",
+  "experience": 1.0,
+  "cookingtime": 100
+}
